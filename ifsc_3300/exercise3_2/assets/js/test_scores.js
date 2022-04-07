@@ -42,6 +42,3 @@ for (let val of scores) {
 
     document.write(`<p>Highest score is ${parseInt(highestScore)}</p>`);
 
-
-
-
